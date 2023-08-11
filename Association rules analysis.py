@@ -5,7 +5,6 @@
 
 # In[1]:
 
-
 # Importing the important libraries
 import numpy as np
 import pandas as pd
